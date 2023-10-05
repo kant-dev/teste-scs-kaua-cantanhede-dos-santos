@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #fafafa;
+  background-color: #ebeff2;
   color: #000;
   
 }
@@ -182,7 +182,7 @@ body {
   margin-left: -15px;
   padding: 5px;
   border-radius: 25px;
-  background-color: #fafafa;
+  background-color: #ebeff2;
   font-size: 20px;
   font-family: 'Montserrat';
   font-style: normal;
@@ -190,7 +190,7 @@ body {
   line-height: 150%;
 }
 .main .models .modelo1 .content .btn button:hover{
-  background-color: #cacaca77;
+  background-color: #0000001f;
 }
 
 /* Modelo 2/card 2 */
@@ -249,7 +249,7 @@ body {
   margin-left: -15px;
   padding: 5px;
   border-radius: 25px;
-  background-color: #fafafa;
+  background-color: #ebeff2;
   font-size: 20px;
   font-family: 'Montserrat';
   font-style: normal;
@@ -257,7 +257,7 @@ body {
   line-height: 150%;
 }
 .main .models .modelo2 .content .btn button:hover{
-  background-color: #cacaca77;
+  background-color: #0000001f;
 }
 /* Modelo 3/card 3 */
 .main .models .modelo3 img {
@@ -320,7 +320,7 @@ body {
   margin-left: -15px;
   padding: 5px;
   border-radius: 25px;
-  background-color: #fafafa;
+  background-color: #ebeff2;
   font-size: 20px;
   font-family: 'Montserrat';
   font-style: normal;
@@ -329,7 +329,7 @@ body {
 }
 
 .main .models .modelo3 .content .btn button:hover {
-  background-color: #cacaca77;
+  background-color: #0000001f;
 }
 /* FOOTER */
 .footer{
